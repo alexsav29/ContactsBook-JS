@@ -5,7 +5,7 @@
 
 ## Общий вид приложения
 
-![Main Page](readme/Main_Page.jpg)
+![Main Page](readme/Main_page.jpg)
 
 ## Функционал
 
